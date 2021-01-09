@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Portal Berita</string>
+    <string name="Testing">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat sed nisi ut egestas. Duis sed nulla nisl. Aenean eu dignissim arcu, ut scelerisque erat. Vestibulum mi ante, iaculis vel nulla et, iaculis tempor est. Nam nec velit quis arcu convallis fringilla vel vitae velit. Vestibulum elementum aliquam ultricies. Sed blandit, velit in tincidunt tempus, neque augue imperdiet risus, in placerat massa nisl at leo. Vestibulum quis massa nisi.
+        Nunc et tempus tellus. Curabitur quis risus egestas, commodo lectus quis, sagittis risus. Pellentesque convallis est ante. Etiam mattis dui in urna hendrerit, non eleifend mauris accumsan. Fusce ut mauris eget nulla rutrum efficitur. Pellentesque a ullamcorper quam. Vestibulum vitae ante eget est luctus faucibus. Phasellus ac nulla risus. Nulla eu dui elementum, dapibus velit ac, tincidunt lorem. Aliquam feugiat ipsum non facilisis ultricies. Suspendisse elementum sit amet felis sed tincidunt. Nunc mollis suscipit nunc vel scelerisque. Mauris vitae enim vestibulum, consequat urna nec, porttitor justo. Maecenas luctus dui at nisi accumsan sagittis. </string>
+
+    <string-array name="Bahsa_Pemrogrmana">
+        <item>C++</item>
+        <item>C</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Dart</item>
+    </string-array>
+
+    <string-array name="Desc">
+        <item>Random Deskripsi</item>
+        <item>Random Deskripsi</item>
+        <item>Random Deskripsi</item>
+        <item>Random Deskripsi</item>
+        <item>Random Deskripsi</item>
+        <item>Random Deskripsi</item>
+    </string-array>
+
+    <string name="judul1">BCA Buka Lowongan Pekerjaan untuk Berbagai Posisi, Apa Saja?</string>
+    <string name="judul2">Berikut Sederet Negara yang Kembali Berlakukan Lockdown akibat Lonjakan Kasus Covid-19</string>
+    <string name="judul3">Menilik Sulitnya Mencari Kamar Kosong di RS untuk Pasien Covid-19...</string>
+    <string name="judul4">6 Manfaat Buah Pala bagi Kesehatan, Obati Insomnia Hingga Menyehatkan Otak</string>
+    <string name="judul5">Facebook dan WhatsApp Banyak Kumpulkan Data Pengguna</string>
+    <string name="judul6">Rekomendasi Tempat Menginap Jika Ingin Staycation di Canggu</string>
+    <string name="judul7">Kalah Lawan Orang Tua di Kasus Merek Pasta Gigi, Unilever Ajukan Kasasi</string>
+    <string name="judul8">Apa Jadinya Jika Ada Pebulutangkis di Asian Leg Kena Virus Corona?</string>
+    <string name="judul9">8 Drama Korea Ini Rilis 10 Tahun Lalu, Rekomendasi Tontonan Akhir Pekan</string>
+
+
+
+</resources>
